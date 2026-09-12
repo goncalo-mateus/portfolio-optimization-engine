@@ -1,6 +1,6 @@
 # Portfolio Optimization & Efficient Frontier Engine
 
-
+Run this project interactively in Google Colab: https://colab.research.google.com/drive/1l7PHs8eQwBOfUHBVP9E6cJCYSX-geRec?usp=sharing
 
 A quantitative financial analytics engine built in Python that models optimal asset allocation using **Markowitz Modern Portfolio Theory (MPT)**. The tool ingests historical market data via `yfinance`, performs Monte Carlo simulations to plot the **Efficient Frontier**, and executes numerical optimization to construct risk-balanced portfolios.
 
