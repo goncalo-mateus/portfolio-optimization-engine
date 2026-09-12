@@ -36,6 +36,6 @@ The engine operates on the following mathematical core:
 
 ## How to Run in Google Colab
 
-1. 
+1. Open the interactive notebook: https://colab.research.google.com/drive/1l7PHs8eQwBOfUHBVP9E6cJCYSX-geRec?usp=sharing
 2. Select your desired assets and parameters in the interactive HUD.
 3. Run all cells sequentially to generate the optimization report and visual charts.
